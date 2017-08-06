@@ -1,0 +1,23 @@
+{
+  "name": "freecodeproject",
+  "version": "1.0.1",
+  "description": ",-----.,--.                  ,--. ,---.   ,--.,------.  ,------.     '  .--./|  | ,---. ,--.,--. ,-|  || o   \\  |  ||  .-.  \\ |  .---'     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \\  :|  `--,      '  '--'\\|  |' '-' ''  ''  '\\ `-' | .'  /   |  ||  '--'  /|  `---.      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'     -----------------------------------------------------------------",
+  "main": "server.js",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hajriaimen/nodejsFreeCodeCamp.git"
+  },
+  "keywords": [
+    "nodejs",
+    "freeCodeCamp"
+  ],
+  "author": "aymen hajri",
+  "license": "ISC"
+}
